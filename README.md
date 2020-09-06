@@ -18,5 +18,5 @@
 
 # Observações
 
-Fonte: Diego Fernandes - Rocketseat - https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp
-
+- Fonte: Diego Fernandes - Rocketseat - https://www.youtube.com/watch?v=BN_8bCfVp88&list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp
+- Não estou conseguindo acessar via https (erro SSL), consigo acessar apenas via http.
